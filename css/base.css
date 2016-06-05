@@ -1,0 +1,17 @@
+@charset "utf-8";
+body,p,h1,h2,h3,h4,h5,h6,form,input,ul,li,dd,dl,textarea{
+    padding:0;margin:0;
+    list-style-type:none;
+    font-family:"微软雅黑";
+    font-size:12px;
+    background: #fff;
+}
+a{
+    text-decoration:none;
+}
+img{
+    border:0;
+}
+*{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+}

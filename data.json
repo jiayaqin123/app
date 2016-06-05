@@ -1,0 +1,58 @@
+{
+  "data": {
+    "articles": [
+      {
+        "id":"0",
+        "title": "小白总结：PS快捷键及切图的使用技巧",
+        "text": "按住shift 正圆或正方形 按住shift+alt 选定某一中心为原点画圆 按住Shift键 增加选区 按住Alt键 减少选区 Ctrl+D 取消选区 V键 移动工具 M键 选区工具 shift+M 在矩形和椭圆之间切换 按住空格键 抓手工具 Z键 放大缩小工具 Ctrl+ 放大 Ctrl— 缩小 W键 快速选择工具 { 缩小选区像素 } 放大选区像素s 小技巧：选择相应图层或用快速"
+      },
+      {
+        "id":"1",
+        "title": "java方面面试题及个人解答",
+        "text": "抽象类 是一个不能被实例化的类，因为它其中存在抽象方法，但它的其它行为和一个普通类没什么不同。"
+      },
+      {
+        "id":"2",
+        "title": "IOS 将图片保存到沙盒",
+        "text": "/** *parm fileName *image 图片文件 *将图片命名为XXX保存包项目沙盒类 */ +(BOOL)saveImage:(UIImage*)image ToDocmentWithFileName:(NSString*)fileName{ //2.保存到对应的沙盒目录中，具体代码如下： NSArray *paths = NSSearchPathForDirectoriesInDo"
+      },
+      {
+        "id":"3",
+        "title": "小白总结：PS快捷键及切图的使用技巧",
+        "text": "按住shift 正圆或正方形 按住shift+alt 选定某一中心为原点画圆 按住Shift键 增加选区 按住Alt键 减少选区 Ctrl+D 取消选区 V键 移动工具 M键 选区工具 shift+M 在矩形和椭圆之间切换 按住空格键 抓手工具 Z键 放大缩小工具 Ctrl+ 放大 Ctrl— 缩小 W键 快速选择工具 { 缩小选区像素 } 放大选区像素s 小技巧：选择相应图层或用快速"
+      },
+      {
+        "id":"4",
+        "title": "java方面面试题及个人解答",
+        "text": "抽象类 是一个不能被实例化的类，因为它其中存在抽象方法，但它的其它行为和一个普通类没什么不同。"
+      },
+      {
+        "id":"5",
+        "title": "IOS 将图片保存到沙盒",
+        "text": "/** *parm fileName *image 图片文件 *将图片命名为XXX保存包项目沙盒类 */ +(BOOL)saveImage:(UIImage*)image ToDocmentWithFileName:(NSString*)fileName{ //2.保存到对应的沙盒目录中，具体代码如下： NSArray *paths = NSSearchPathForDirectoriesInDo"
+      },
+      {
+        "id":"6",
+        "title": "小白总结：PS快捷键及切图的使用技巧",
+        "text": "按住shift 正圆或正方形 按住shift+alt 选定某一中心为原点画圆 按住Shift键 增加选区 按住Alt键 减少选区 Ctrl+D 取消选区 V键 移动工具 M键 选区工具 shift+M 在矩形和椭圆之间切换 按住空格键 抓手工具 Z键 放大缩小工具 Ctrl+ 放大 Ctrl— 缩小 W键 快速选择工具 { 缩小选区像素 } 放大选区像素s 小技巧：选择相应图层或用快速"
+      },
+      {
+        "id":"7",
+        "title": "java方面面试题及个人解答",
+        "text": "抽象类 是一个不能被实例化的类，因为它其中存在抽象方法，但它的其它行为和一个普通类没什么不同。"
+      },
+      {
+        "id":"8",
+        "title": "IOS 将图片保存到沙盒",
+        "text": "/** *parm fileName *image 图片文件 *将图片命名为XXX保存包项目沙盒类 */ +(BOOL)saveImage:(UIImage*)image ToDocmentWithFileName:(NSString*)fileName{ //2.保存到对应的沙盒目录中，具体代码如下： NSArray *paths = NSSearchPathForDirectoriesInDo"
+      },
+      {
+        "id":"9",
+        "title": "小白总结：PS快捷键及切图的使用技巧",
+        "text": "按住shift 正圆或正方形 按住shift+alt 选定某一中心为原点画圆 按住Shift键 增加选区 按住Alt键 减少选区 Ctrl+D 取消选区 V键 移动工具 M键 选区工具 shift+M 在矩形和椭圆之间切换 按住空格键 抓手工具 Z键 放大缩小工具 Ctrl+ 放大 Ctrl— 缩小 W键 快速选择工具 { 缩小选区像素 } 放大选区像素s 小技巧：选择相应图层或用快速"
+      }
+    ]
+  },
+  "code": 200,
+  "message": "OK"
+}
